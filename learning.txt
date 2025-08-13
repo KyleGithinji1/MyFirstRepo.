@@ -1,0 +1,1 @@
+I have learned how to use Git and GitHub to manage version control. Specifically, I now understand how to clone a repository, create new files, and prepare them for committing." > learning.txt
